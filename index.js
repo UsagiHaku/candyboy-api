@@ -27,5 +27,6 @@ app.get('/products', (req,res) => {
 })
 
 //// Starting server
-app.listen('8080')
+const PORT = process.env.PORT || 8080
+app.listen(PORT)
 console.log("listening in port 8080");
