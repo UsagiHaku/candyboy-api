@@ -20,7 +20,7 @@ app.get('/products', (req,res) => {
             expiration: null,
             price: 8.5,
             description: 'Bebida refresecante sabor naranja',
-            image: null,
+            image: "https://i.pinimg.com/originals/bc/61/ca/bc61caaa5a11ecc081b5637ef367157e.gif",
         },
         {
             id: "2",
@@ -30,7 +30,7 @@ app.get('/products', (req,res) => {
             expiration: null,
             price: 10,
             description: 'Bebida refrescante sabor coca cola',
-            image: null,
+            image: "https://i.pinimg.com/originals/bc/61/ca/bc61caaa5a11ecc081b5637ef367157e.gif",
         },
         {
             id: "3",
@@ -40,7 +40,7 @@ app.get('/products', (req,res) => {
             expiration: null,
             price: 10,
             description: 'Bebida refrescante sabor torinja',
-            image: null,
+            image: "https://i.pinimg.com/originals/bc/61/ca/bc61caaa5a11ecc081b5637ef367157e.gif",
         },
                 {
             id: "4",
@@ -50,7 +50,7 @@ app.get('/products', (req,res) => {
             expiration: null,
             price: 10,
             description: 'Bebida refrescante sabor coca cola',
-            image: null,
+            image: "https://i.pinimg.com/originals/bc/61/ca/bc61caaa5a11ecc081b5637ef367157e.gif",
         },
                 {
             id: "5",
@@ -60,7 +60,7 @@ app.get('/products', (req,res) => {
             expiration: null,
             price: 10,
             description: 'Bebida refrescante sabor coca cola',
-            image: null,
+            image: "https://i.pinimg.com/originals/bc/61/ca/bc61caaa5a11ecc081b5637ef367157e.gif",
         },
                 {
             id: "6",
@@ -70,7 +70,7 @@ app.get('/products', (req,res) => {
             expiration: null,
             price: 10,
             description: 'Bebida refrescante sabor coca cola',
-            image: null,
+            image: "https://i.pinimg.com/originals/bc/61/ca/bc61caaa5a11ecc081b5637ef367157e.gif∫",
         }
     ]
 
